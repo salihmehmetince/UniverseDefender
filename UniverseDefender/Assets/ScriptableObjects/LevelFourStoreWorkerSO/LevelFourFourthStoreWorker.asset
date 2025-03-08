@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e5618d5ac45f0c46a6f48d7d6bbf5c1, type: 3}
+  m_Name: LevelFourFourthStoreWorker
+  m_EditorClassIdentifier: 
+  workerName: FourthStoreWorker
+  workerQuestions:
+  - "1)\u0130\u015Fler nas\u0131l gidiyor"
+  - "2)\u015Eu ya\u011F bidonunu alabilir misin"
+  - 3)Nails 25 coin
+  - "4)\xC7al\u0131\u015Fmak"
+  workerAnswers:
+  - "\u015Eu uzay \xE7\xF6pleri sat\u0131\u015Flar\u0131 baya azaltt\u0131"
+  - Tabi ki alabilrisin sorman yeterli
+  - 25 coin
+  - "Bana e\u015Fya yapmakta yard\u0131m edebilirsin"
+  tools:
+  - Nails
+  prices: 19000000
+  toolSprites:
+  - {fileID: 21300000, guid: 2684e517338352445bb8e928b4ba83af, type: 3}

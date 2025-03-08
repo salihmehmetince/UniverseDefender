@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c720e0557c542b4cb3782bf64fdfcce, type: 3}
+  m_Name: LevelFourFirstRestaurantWorker1
+  m_EditorClassIdentifier: 
+  workerName: First Restaurant Worker
+  workerQuestions:
+  - "1)Buras\u0131 neresi mi?"
+  - 2)Ben kim miyim?
+  - "3)Bu ta\u015Flar"
+  - 4)Yemek
+  workerAnswers:
+  - "Buras\u0131 A gezegeni"
+  - "Ben demin dedi\u011Fim gibi First Restaurant Worker"
+  - "Bu ta\u015Flar\u0131 d\xFC\u015F\xFCrm\xFC\u015F\xFCm buldu\u011Fun i\xE7in
+    te\u015Fekk\xFCrler"
+  - Yemek
+  foods:
+  - Salad
+  prices: 02000000
+  foodSprites:
+  - {fileID: 21300000, guid: 45b616f03811eb7479c711105e1824d7, type: 3}

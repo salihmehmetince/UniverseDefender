@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82515921892f8fd47abaa1db0e1e8cf2, type: 3}
+  m_Name: LevelFourStoreWorker5
+  m_EditorClassIdentifier: 
+  workerName: LevelFourStoreWorker5
+  workerQuestions:
+  - 1)hammer 12 coin
+  - 2)shears 15 coin
+  - 3)Tool1 19 coin
+  - "4)\xC7al\u0131\u015Fmak"
+  workerAnswers:
+  - "hammer \u0131 alabilrisin"
+  - "shears \u0131 alabilrisin"
+  - "screwdriver \u0131 alabilrisin"
+  - "Bana e\u015Fya yapmakta yard\u0131m edebilirsin"
+  tools:
+  - hammer
+  - shears
+  - screwdriver
+  prices: 0c0000000f00000013000000
+  toolSprites:
+  - {fileID: 21300000, guid: aa5e5918f31095b47a1d38cfd680abf7, type: 3}
+  - {fileID: 21300000, guid: de1b8bcd6a405954b8a3c4089876184c, type: 3}
+  - {fileID: 21300000, guid: 8ed1b91e79a9756469023defe3337ba4, type: 3}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 782d3418a08ddf543bf8e6099650caa1, type: 3}
+  m_Name: LevelFourRestaurantWorker4
+  m_EditorClassIdentifier: 
+  workerName: RestaurantWorker4
+  workerQuestions:
+  - "Sandvi\xE73 20 coin"
+  - Hamburger3 40 coin
+  - Salata3 22 coin
+  - Pizza3 30 coin
+  workerAnswers:
+  - "Sandvi\xE73 geliyor"
+  - Hamburger3 geliyor
+  - Salata3 geliyor
+  - Pizza3 geliyor
+  foods:
+  - "Sandvi\xE73"
+  - Hamburger3
+  - Salata3
+  - Pizza3
+  prices: 1400000028000000160000001e000000
+  foodSprites:
+  - {fileID: 21300000, guid: bcd0dd3950e01a349a071dd8e120b0fe, type: 3}
+  - {fileID: 21300000, guid: 9a5c21f8be1a6b74ab5111a4f6534067, type: 3}
+  - {fileID: 21300000, guid: 5426d6233714cef49b387507ad7284b9, type: 3}
+  - {fileID: 21300000, guid: 6cf90f4964b9fd24fbf1557eac8ce5f3, type: 3}

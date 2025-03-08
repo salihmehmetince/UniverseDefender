@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82515921892f8fd47abaa1db0e1e8cf2, type: 3}
+  m_Name: LevelFourStoreWorker2
+  m_EditorClassIdentifier: 
+  workerName: StoreWorker2
+  workerQuestions:
+  - 1)ScrewDriver 8 coin
+  - 2)Drill 9 coin
+  - 3)Pliers 11 coin
+  - "4)\xC7al\u0131\u015Fmak"
+  workerAnswers:
+  - "ScrewDriver \u0131 alabilrisin"
+  - "Drill \u0131 alabilrisin"
+  - "Pliers \u0131 alabilrisin"
+  - "Bana e\u015Fya yapmakta yard\u0131m edebilirsin"
+  tools:
+  - ScrewDriver
+  - Drill
+  - Pliers
+  prices: 08000000090000000b000000
+  toolSprites:
+  - {fileID: 21300000, guid: c34a391d5e5a8d247877a7980fe521f1, type: 3}
+  - {fileID: 21300000, guid: 668b1decdfd01c5469b4e0d03b74750a, type: 3}
+  - {fileID: 21300000, guid: a9d4b17389cc3094d8bb9c06fa5a64ba, type: 3}
